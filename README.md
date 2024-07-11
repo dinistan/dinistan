@@ -26,13 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently pursuing a **BSc Hons in Information Systems at the University of Sabaragamuwa, Sri Lanka.**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning the **MERN Stack**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in **full stack web development.**
 
-- 📝 I regularly write articles on [MEDIUM](https://medium.com/@dinistanajay)
+- 📝 I sometimes write articles on [MEDIUM](https://medium.com/@dinistanajay)
 
 - 📫 Feel free to reach me out **dinistanajay@gmail.com**
 
@@ -119,7 +119,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 29/4/2023
